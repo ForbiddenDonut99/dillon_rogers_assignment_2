@@ -1,0 +1,23 @@
+Initialize engine version: 4.3.3f1 (c8ca9b6b9936)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.1148]
+    Renderer: NVIDIA GeForce GTX 770M
+    Vendor:   NVIDIA
+    VRAM:     3015 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dillon\Desktop\Unity\dillon_rogers_assignment_2\assignment_2_build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dillon\Desktop\Unity\dillon_rogers_assignment_2\assignment_2_build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dillon\Desktop\Unity\dillon_rogers_assignment_2\assignment_2_build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dillon\Desktop\Unity\dillon_rogers_assignment_2\assignment_2_build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 1.198163 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 388.
+Total: 3.669755 ms (FindLiveObjects: 0.049416 ms CreateObjectMapping: 0.009883 ms MarkObjects: 0.105675 ms  DeleteObjects: 0.004561 ms)
+
